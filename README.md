@@ -15,11 +15,6 @@ Includes clean UI sections like Home, Menu, About, and Contact.
 
 ---
 
-## 🖼 Preview  
-`![Food Delight Screenshot](./preview.png)`
-
----
-
 ## 🛠 Tech Stack
 - **HTML5**  
 - **CSS3**  
